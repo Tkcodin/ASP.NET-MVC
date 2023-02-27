@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyAPItest
 build_property.RootNamespace = MyAPItest
-build_property.ProjectDir = C:\Users\Tkpaulrogers\source\repos\MyAPItest\MyAPItest\
+build_property.ProjectDir = C:\Users\Tkpaulrogers\Source\Repos\ASP.NET_MVC_PRACTICE\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Tkpaulrogers\source\repos\MyAPItest\MyAPItest
+build_property.MSBuildProjectDirectory = C:\Users\Tkpaulrogers\Source\Repos\ASP.NET_MVC_PRACTICE
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Tkpaulrogers/source/repos/MyAPItest/MyAPItest/Views/Category/Create.cshtml]
+[C:/Users/Tkpaulrogers/Source/Repos/ASP.NET_MVC_PRACTICE/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tkpaulrogers/source/repos/MyAPItest/MyAPItest/Views/Category/Delete.cshtml]
+[C:/Users/Tkpaulrogers/Source/Repos/ASP.NET_MVC_PRACTICE/Views/Category/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tkpaulrogers/source/repos/MyAPItest/MyAPItest/Views/Category/Edit.cshtml]
+[C:/Users/Tkpaulrogers/Source/Repos/ASP.NET_MVC_PRACTICE/Views/Category/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tkpaulrogers/source/repos/MyAPItest/MyAPItest/Views/Category/Index.cshtml]
+[C:/Users/Tkpaulrogers/Source/Repos/ASP.NET_MVC_PRACTICE/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tkpaulrogers/source/repos/MyAPItest/MyAPItest/Views/Home/Index.cshtml]
+[C:/Users/Tkpaulrogers/Source/Repos/ASP.NET_MVC_PRACTICE/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tkpaulrogers/source/repos/MyAPItest/MyAPItest/Views/Home/Privacy.cshtml]
+[C:/Users/Tkpaulrogers/Source/Repos/ASP.NET_MVC_PRACTICE/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tkpaulrogers/source/repos/MyAPItest/MyAPItest/Views/Shared/Error.cshtml]
+[C:/Users/Tkpaulrogers/Source/Repos/ASP.NET_MVC_PRACTICE/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tkpaulrogers/source/repos/MyAPItest/MyAPItest/Views/Shared/_Notification.cshtml]
+[C:/Users/Tkpaulrogers/Source/Repos/ASP.NET_MVC_PRACTICE/Views/Shared/_Notification.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tkpaulrogers/source/repos/MyAPItest/MyAPItest/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Tkpaulrogers/Source/Repos/ASP.NET_MVC_PRACTICE/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tkpaulrogers/source/repos/MyAPItest/MyAPItest/Views/_ViewImports.cshtml]
+[C:/Users/Tkpaulrogers/Source/Repos/ASP.NET_MVC_PRACTICE/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tkpaulrogers/source/repos/MyAPItest/MyAPItest/Views/_ViewStart.cshtml]
+[C:/Users/Tkpaulrogers/Source/Repos/ASP.NET_MVC_PRACTICE/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Tkpaulrogers/source/repos/MyAPItest/MyAPItest/Views/Shared/_Layout.cshtml]
+[C:/Users/Tkpaulrogers/Source/Repos/ASP.NET_MVC_PRACTICE/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-g00vz25lp0
